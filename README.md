@@ -53,4 +53,4 @@ Download or clone the repo and open `index.html` in any modern browser.
 - Online multiplayer
 
 ---
-Made by **Mohamed** · [More of my games](https://github.com/mohamedniaba917-lang) · *Built with AI assistance.*
+Made by **Mohamed** · [More of my games](https://github.com/mohamedniaba917-lang)
